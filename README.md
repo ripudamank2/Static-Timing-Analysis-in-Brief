@@ -58,7 +58,7 @@ Disadvantages:
    | very slow run time  | fast run time  |
    | HSPCIE,SPECTRE,ELDO  | PrimeTime,Tempus  |
    | Input files: SPF,SPICE MODELS  | Input files: SDF,SPEF,Verilog,Liberty file |
-   | Content Cell  | Content Cell  |
+   
 
 
 
