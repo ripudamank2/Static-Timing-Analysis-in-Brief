@@ -4,7 +4,7 @@ The basic STA algorithm can support upto 10 million instances. STA over-estimate
 
 
 
-### Timing Analysis are of two types 1.Dynamic 2.Static
+### Timing Analysis are of two types --->  1.Dynamic 2.Static
 
 
 
