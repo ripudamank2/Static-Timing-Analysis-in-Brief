@@ -30,7 +30,10 @@ Disadvantages:
  3. Requires long run-times. 
  4. This can only be done at IP/Block levels.
  5. Test-chip level needs FastSPCIE/Accelerated-SPCIE.
- 6. 
+ 6. SOC level analysis cannot be done. (we cant write lots of etap points).
+
+
+##### Static Timing Analysis
 
   
 
