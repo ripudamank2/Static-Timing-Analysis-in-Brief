@@ -52,7 +52,7 @@ Disadvantages:
 
    | Dynamic       | Static        |
    | ------------- | ------------- |
-   | Content Cell  | Content Cell  |
+   | Check the functionality of the design.  | Check the static delays of design.  |
    | Content Cell  | Content Cell  |
   
 
