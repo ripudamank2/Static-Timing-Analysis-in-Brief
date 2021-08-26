@@ -13,6 +13,18 @@ The basic STA algorithm can support upto 10 million instances. STA over-estimate
 2. Static : No time involved in input files or output files.
  
     a. its will done on larger circuts like ASIC/SOC/FPGA.
+    
+    
+##### Dynamic Timing Analysis
+
+ Advantages:
+ 
+ 1. It can check asynchronous interfaces. 
+ 2. It can be accurate through SPICE simulation.
+ 3. No need to specify false, multi-cycle path etc. 
+
+Disadvantages
+
   
 
 
