@@ -17,7 +17,7 @@ The basic STA algorithm can support upto 10 million instances. STA over-estimate
     
 ##### Dynamic Timing Analysis
 
- Advantages:
+Advantages:
  
  1. It can check asynchronous interfaces. 
  2. It can be accurate through SPICE simulation.
@@ -34,6 +34,13 @@ Disadvantages:
 
 
 ##### Static Timing Analysis
+
+Advantages:
+
+ 1. Fast-Design is analyzed in one pass for one clk cycles.
+ 2. Exhaustive and check all topological paths in the design.
+ 3. Does not require verification env.
+ 
 
   
 
