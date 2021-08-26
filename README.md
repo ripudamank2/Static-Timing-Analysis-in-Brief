@@ -75,6 +75,7 @@ Disadvantages:
 ![FIG:2](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/sta_con.jpg)   
 
 
+### STA in Digital Design (ASIC/SOC)
 
 
 
