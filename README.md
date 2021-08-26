@@ -53,11 +53,11 @@ Disadvantages:
    | Dynamic       | Static        |
    | ------------- | ------------- |
    | Check the functionality of the design.  | Check the static delays of design.  |
-   | Content Cell  | Content Cell  |
-   | Content Cell  | Content Cell  |
-   | Content Cell  | Content Cell  |
-   | Content Cell  | Content Cell  |
-   | Content Cell  | Content Cell  |
+   | SPICE based Simulation  | Formula based  |
+   | highly accurate  | Formula Based  |
+   | very slow run time  | fast run time  |
+   | HSPCIE,SPECTRE,ELDO  | PrimeTime,Tempus  |
+   | Input files: SPF,SPICE MODELS  | Input files: SDF,SPEF,Verilog,Liberty file |
    | Content Cell  | Content Cell  |
 
 
