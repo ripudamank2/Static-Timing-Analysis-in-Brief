@@ -54,7 +54,7 @@ Disadvantages:
    | ------------- | ------------- |
    | Check the functionality of the design.  | Check the static delays of design.  |
    | SPICE based Simulation  | Formula based  |
-   | highly accurate  | Formula Based  |
+   | highly accurate  | Critical Path analysis  |
    | very slow run time  | fast run time  |
    | HSPCIE,SPECTRE,ELDO  | PrimeTime,Tempus  |
    | Input files: SPF,SPICE MODELS  | Input files: SDF,SPEF,Verilog,Liberty file |
