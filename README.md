@@ -23,7 +23,14 @@ The basic STA algorithm can support upto 10 million instances. STA over-estimate
  2. It can be accurate through SPICE simulation.
  3. No need to specify false, multi-cycle path etc. 
 
-Disadvantages
+Disadvantages:
+
+ 1. Analysis quality depends on stimulus vector (we need to carefully choose the inputs vector (togglings and fixed nodes)).
+ 2. Non-exhaustive and virtually impossible to check all the paths.
+ 3. Requires long run-times. 
+ 4. This can only be done at IP/Block levels.
+ 5. Test-chip level needs FastSPCIE/Accelerated-SPCIE.
+ 6. 
 
   
 
