@@ -48,7 +48,7 @@ Disadvantages:
  3. Difficult handling asynchronous designs and false paths.
 
 
-##### Why STA is important for ASIC/SOC
+#### Why STA is important for ASIC/SOC
 
    | First Header  | Second Header |
 | ------------- | ------------- |
