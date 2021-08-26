@@ -51,9 +51,9 @@ Disadvantages:
 ### Why STA is important for ASIC/SOC
 
    | First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+   | ------------- | ------------- |
+   | Content Cell  | Content Cell  |
+   | Content Cell  | Content Cell  |
   
 
 
