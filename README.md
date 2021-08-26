@@ -59,11 +59,15 @@ Disadvantages:
    | HSPCIE,SPECTRE,ELDO  | PrimeTime,Tempus  |
    | Input files: SPF,SPICE MODELS  | Input files: SDF,SPEF,Verilog,Liberty file |
    
-   
+ 
+ 
+ 
+### How STA works Fast 
+ 
    
  
  
- ![FIG:1](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/sta_work.jpg)
+![FIG:1](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/sta_work.jpg)
    
 
 
