@@ -41,6 +41,11 @@ Advantages:
  2. Exhaustive and check all topological paths in the design.
  3. Does not require verification env.
  
+Disadvantages:
+
+ 1. Less accurate.
+ 2. Must define timing requirements.
+ 3. Difficult handling asynchronous designs and false paths.
 
   
 
