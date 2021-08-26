@@ -87,8 +87,25 @@ Disadvantages:
 
 ### STA OUTPUTS :
 
-  1. ddd
-  2. 
+  1. Register to Register delay
+  2. Setup times check of all external synch inputs
+  3. Hold time check of synch outputs
+  4. CLK to Q delays
+  5. Pin to Pin Combinational Delays
+  6. Different Analysis Modes-Best, Worst, Typical, On-Chip Variation
+  7. Data to Data  checks
+  8. Case Analysis
+  9. Multiple clocks per Registers
+  10. Min Pulse width check
+  11. Derived CLK
+  12. CLK gating checks
+  13. Netlist Editing
+  14. Report_clk_timing
+  15. Clk re-convergence pessimism
+  16. worst-arrival slew propagation
+  17. path-based analysis
+  18. debugging delay calculation
+  
 
 
 
