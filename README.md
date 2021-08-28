@@ -125,11 +125,20 @@ Disadvantages:
  
  #### Max and Min path concept :
  
- A Max Path is not the physical maximum length path (more number of gates and delay). Rather it's the path with largest delay.
- A Min Path is the path with the smallest delay (less number of gates and delay).
+   1. A Max Path is not the physical maximum length path (more number of gates and delay). Rather it's the path with largest delay.
+   2. A Min Path is the path with the smallest delay (less number of gates and delay).
  
  
 ## STA Delay :
+
+   1. In this static delays such as gate and net delay are considered.
+   2. In each path and these delays are compared against their required (RAT) maximum and minimum values.
+   3. Actual path delay is the sum of the Net delay and the cell delay along the timing path.
+   4. Net delay is the total time for charging and discharging all the parasitics. it is a function of parasitic R and C.
+   5. Cell delay is the delay arc corresponding to the input and output ports of the cell. It is the function of Slew , Load and Process Parameters.
+   6. Wire Load Models are fetched from the Technology files.
+
+
  
 
 
