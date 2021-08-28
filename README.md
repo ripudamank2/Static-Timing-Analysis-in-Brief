@@ -157,6 +157,11 @@ Disadvantages:
 
 
  
+### CLOCK LATENCY AND SKEW
+
+
+![FIG:6](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/clock.jpg)
+
 
 
   
