@@ -139,6 +139,14 @@ Disadvantages:
    6. Wire Load Models are fetched from the Technology files.
 
 
+#### Pre-layout Net delay Calculation :
+
+  1. Wire load Model
+  2. Net length is a function of net fan-out and chip-area.
+  3. Average of R and C are estimated for different fan-outs.
+  4. Net delay is calculated simply by R*C.
+
+
  
 
 
