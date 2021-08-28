@@ -167,6 +167,15 @@ Disadvantages:
 
 
 
+### Setup and Hold time :
+
+
+![FIG:6](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/setup_hold.jpg)
+
+
+
+
+
   
 
 
