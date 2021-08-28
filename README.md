@@ -77,12 +77,12 @@ Disadvantages:
 
 ### STA in Digital Design (ASIC/SOC) :
 
-![FIG:2](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/Digital.jpg)
+![FIG:3](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/Digital.jpg)
 
 
 ### STA Engine I/O :
 
-![FIG:2](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/sta_engine.jpg)
+![FIG:4](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/sta_engine.jpg)
 
 
 ### STA OUTPUTS :
@@ -105,6 +105,11 @@ Disadvantages:
   16. worst-arrival slew propagation
   17. path-based analysis
   18. debugging delay calculation
+
+
+
+
+![FIG:4](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/path_types.jpg)
 
 
 
