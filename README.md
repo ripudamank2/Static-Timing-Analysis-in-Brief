@@ -156,6 +156,9 @@ Disadvantages:
   4. Net delay is calculated simply by R*C.
 
 
+
+
+
  
 ### CLOCK LATENCY AND SKEW
 
