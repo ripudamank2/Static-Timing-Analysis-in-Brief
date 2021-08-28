@@ -114,7 +114,7 @@ Disadvantages:
 
 
 
-### Directed Acyclic Graph (DAG):
+#### Directed Acyclic Graph (DAG):
 
    1. Netlist is represented in form of DAG.
    2. Delay values are associated with nodes (cells) and links (nets).
@@ -123,7 +123,7 @@ Disadvantages:
    5. Next for each path calculated its delay and compare it with endpoints (required) values.
  
  
- ### Max and Min path concept :
+ #### Max and Min path concept :
  
  A Max Path is not the physical maximum length path (more number of gates and delay). Rather it's the path with largest delay.
  A Min Path is the path with the smallest delay (less number of gates and delay).
