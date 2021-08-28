@@ -139,6 +139,15 @@ Disadvantages:
    6. Wire Load Models are fetched from the Technology files.
 
 
+![FIG:5](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/delay.jpg)
+
+
+![FIG:6](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/delay_cal.jpg)
+
+
+
+
+
 #### Pre-layout Net delay Calculation :
 
   1. Wire load Model
