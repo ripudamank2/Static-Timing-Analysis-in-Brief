@@ -129,7 +129,7 @@ Disadvantages:
  A Min Path is the path with the smallest delay (less number of gates and delay).
  
  
-
+## STA Delay :
  
 
 
