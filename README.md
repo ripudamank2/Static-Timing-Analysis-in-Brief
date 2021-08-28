@@ -105,6 +105,24 @@ Disadvantages:
   16. worst-arrival slew propagation
   17. path-based analysis
   18. debugging delay calculation
+
+
+
+
+### Directed Acyclic Graph (DAG):
+
+   1. Netlist is represented in form of DAG.
+   2. Delay values are associated with nodes (cells) and links (nets).
+   3. Total path delay is the sum of path delay values.
+   4. First all the possible topological paths are extracted.
+   5. Next for each path calculated its delay and compare it with endpoints (required) values.
+ 
+ 
+ 
+
+ 
+
+
   
 
 
