@@ -123,6 +123,11 @@ Disadvantages:
    5. Next for each path calculated its delay and compare it with endpoints (required) values.
  
  
+ ### Max and Min path concept :
+ 
+ A Max Path is not the physical maximum length path (more number of gates and delay). Rather it's the path with largest delay.
+ A Min Path is the path with the smallest delay (less number of gates and delay).
+ 
  
 
  
