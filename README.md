@@ -196,6 +196,14 @@ Disadvantages:
 
 
 
+#### Static False Path:
+
+
+
+
+#### Non-Functional False Path :
+
+
 
 
 
