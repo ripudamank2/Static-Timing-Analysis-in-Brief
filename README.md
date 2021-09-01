@@ -184,10 +184,15 @@ Disadvantages:
 
 
 
-### False Path and its types
+### False Path and its types :
 
 
-![FIG:9](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/false_path.jpg)
+![FIG:10](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/false_path.jpg)
+
+
+#### Asynchronous False Path :
+
+![FIG:11](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/Asynchro_f_path.jpg)
 
 
 
