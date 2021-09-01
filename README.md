@@ -184,6 +184,17 @@ Disadvantages:
 
 
 
+### False Path and its types
+
+
+![FIG:9](https://github.com/ripudamank2/Static-Timing-Analysis-in-Brief/blob/main/images/false_path.jpg)
+
+
+
+
+
+
+
   
 
 
