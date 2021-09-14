@@ -216,6 +216,25 @@ Disadvantages:
 
 
 
+#### Process-Temperature-Voltage Corners & Delay :
+
+
+
+
+#### Process-Temperature-Voltage Corners & Setup/Hold-Violation :
+
+
+
+
+#### On Chip Variations :
+
+
+
+
+
+
+
+
 
   
 
